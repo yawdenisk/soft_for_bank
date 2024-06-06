@@ -9,7 +9,6 @@ Do takich operacji należą:
 * wpłata środków na konto - możliwe zawsze 
 * wypłata środków z konta - możliwe gdy na koncie jest wystarczająca ilość środków 
 * wykonanie przelewu z konta na konto - możliwe gdy na koncie jest wystarczająca ilość środków 
-    + przelewy wykonywane są 2 razy dziennie
   
 ![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/PJMPR/lab05-Objects-Modelling/main/UML/diagram1.puml)
 
